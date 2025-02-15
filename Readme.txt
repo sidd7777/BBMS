@@ -25,7 +25,7 @@ The Blood Bank Management System is a Java-based GUI application designed to man
 1. **Clone the Repository**
    - Open your terminal/command prompt and run:
      ```
-     git clone https://github.com/yourusername/bbms.git
+     git clone https://github.com/sidd7777/bbms.git
      cd bbms
      ```
 
